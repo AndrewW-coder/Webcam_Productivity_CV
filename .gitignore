@@ -3,3 +3,7 @@
 blaze_face_short_range.tflite
 face_landmarker.task
 productivity.db
+\__pycache__\*
+\*.pyc
+\*.pyo
+\*.pyd
